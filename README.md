@@ -4,3 +4,5 @@ My Notes on books:
 
 2. [BOOK : Designing Data-Intensive Applications ](Designing%20Data-Intensive%20Applications/Designing%20Data-Intensive%20Applications.md)
 
+3. [BOOK : Patterns of Enterprise Architecture](./Patterns%20of%20Enterprise%20Architecture/PatternsOfEnterpriseArchitecture.md)
+
