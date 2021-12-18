@@ -70,9 +70,13 @@ The most important result of the rise of NoSQL is Polyglot Persistence.
 
 ## [2.2 Many-to-One and Many-to-Many Relationships](DDIA-%20Chapter%202.2%20Many-to-One%20and%20Many-to-Many%20Relationships.md)
 
-## [2.3 Are Document Databases Repeating History?](DDIA-%20Chapter%202.3%20Are%20Document%20Databases%20Repeating%20History?.md)
+## [2.3 Are Document Databases Repeating History?](DDIA-%20Chapter%202.3%20Are%20Document%20Databases%20Repeating%20History.md)
 
+## [2.4 Relational Versus Document Databases Today](DDIA-%20Chapter%202.4%20Relational%20Versus%20Document%20Databases%20Today.md)
 
+## [2.5 Query Languages for Data](DDIA-%20Chapter%202.5%20Query%20Languages%20for%20Data.md)
+
+## [2.6 Graph-Like Data Models](DDIA-%20Chapter%202.6%20Graph-Like%20Data%20Models.md)
 
 ## Refs
 
