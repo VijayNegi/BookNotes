@@ -33,7 +33,7 @@ The Big Ideas behind reliable, scalable and maintainable systems
 
 - Part 1. Fundamental ideas
     - [Chapter 1. Reliability, scalability, and maintainability](DDIA-%20Chapter%201.%20Reliability,%20scalability,%20and%20maintainability.md)
-    - Chapter 2. Compare several different data models and query languages
+    - [Chapter 2. Data Models and Query Languages](DDIA-%20Chapter%202.%20Data%20Models%20and%20Query%20Languages.md)
     - Chapter 3. Storage engines: how databases arrange data on disk so that we can find it again efficiently
     - Chapter 4. Formats for data encoding (serialization) and evolution of schemas over time.
 - Part 2. Distributed data
