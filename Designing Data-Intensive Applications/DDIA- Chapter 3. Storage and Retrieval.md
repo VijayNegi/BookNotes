@@ -43,7 +43,7 @@ We will examine two families of storage engines:
 
 ## [Chapter 3.6 Other Indexing Structures](DDIA-%20Chapter%203.6%20Other%20Indexing%20Structures.md)
 
-## [DDIA- Chapter 3.7 Transaction Processing or Analytics?](DDIA-%20Chapter%203.7%20Transaction%20Processing%20or%20Analytics?.md)
+## [DDIA- Chapter 3.7 Transaction Processing or Analytics?](DDIA-%20Chapter%203.7%20Transaction%20Processing%20or%20Analytics.md)
 
 
 ## Refs
