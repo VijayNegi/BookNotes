@@ -81,6 +81,8 @@ The most important result of the rise of NoSQL is Polyglot Persistence.
 ## Refs
 
 - [Summary of 35 years of data model proposals](Refs/What%20Goes%20Around%20Comes%20Around.md)
+- [TAO- Facebook’s Distributed Data Store for the Social Graph](Refs/TAO-%20Facebook’s%20Distributed%20Data%20Store%20for%20the%20Social%20Graph.md)
+- [Scaling Facebook Live Videos to a Billion Users](Refs/Scaling%20Facebook%20Live%20Videos%20to%20a%20Billion%20Users.md)
 
 ## Resources to watch/read
 - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)

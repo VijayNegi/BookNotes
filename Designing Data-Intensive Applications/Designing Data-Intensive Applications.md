@@ -8,7 +8,7 @@ status: in-progress
 priority: 4
 tags:
 author: Martin Kleppmann
-rating: 3
+rating: 4
 relates: 
 area: system-design
 project:
@@ -34,7 +34,7 @@ The Big Ideas behind reliable, scalable and maintainable systems
 - Part 1. Fundamental ideas
     - [Chapter 1. Reliability, scalability, and maintainability](DDIA-%20Chapter%201.%20Reliability,%20scalability,%20and%20maintainability.md)
     - [Chapter 2. Data Models and Query Languages](DDIA-%20Chapter%202.%20Data%20Models%20and%20Query%20Languages.md)
-    - Chapter 3. Storage engines: how databases arrange data on disk so that we can find it again efficiently
+    - [Chapter 3. Storage and Retrieval : how databases arrange data on disk so that we can find it again efficiently](DDIA-%20Chapter%203.%20Storage%20and%20Retrieval.md)
     - Chapter 4. Formats for data encoding (serialization) and evolution of schemas over time.
 - Part 2. Distributed data
     - Chapter 5. Data Replication
